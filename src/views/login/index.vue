@@ -103,7 +103,7 @@ export default {
       }
       const res = await codeLogin(this.mobile, this.msgCode)
       this.$store.commit('user/setUserInfo', res.data)
-      this.$toast('登录成功')
+      this.$toast('登录成功!')
       const url = this.$route.query.backUrl || '/'
       this.$router.replace(url)
     }

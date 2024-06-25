@@ -1,4 +1,4 @@
-# my-shopping
+# Salted Fish
 > 基于uni-app技术栈开发的，能够运行在多端(微信小程序、h5、ios/Android)的移动端商城项目
 
 ## 项目设置
